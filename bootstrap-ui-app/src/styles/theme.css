@@ -1,0 +1,13 @@
+:root {
+  --bs-primary: #4f46e5;
+  --bs-secondary: #0f172a;
+  --bs-body-font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: #f8fafc;
+}
+
+.card {
+  border-radius: 12px;
+}
